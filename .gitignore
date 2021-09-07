@@ -212,3 +212,7 @@ cython_debug/
 # Ignore all local history of files
 .history
 .ionide
+
+
+### my_settings.py
+my_settings.py

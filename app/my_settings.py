@@ -1,1 +1,0 @@
-SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:wodus1034!@localhost:3306/fastapi"
